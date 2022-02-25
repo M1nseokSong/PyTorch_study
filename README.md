@@ -1,2 +1,2 @@
-# PyTorch-_study
+# PyTorch_study
 파이토치 공부
